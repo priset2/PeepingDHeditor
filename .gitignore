@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local editor files
+.vscode/
+.idea/
+
+# macOS junk
+.DS_Store
+
+# Local game/decrypt outputs (privacy + accidental commit prevention)
+decrypted.json
+**/decrypted.json
+GameSave_*.dat
