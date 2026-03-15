@@ -1,6 +1,10 @@
-# PeepingDHeditor（中文说明）
+# PeepingDHeditor（macOS 适配版）
 
-一个用于学习和研究存档结构的本地脚本项目，支持对游戏存档进行解密与回写。
+一个面向 macOS 用户整理和适配的本地脚本项目，用于学习和研究游戏存档结构，并支持对存档进行解密与回写。
+
+## GitHub 仓库简介建议
+
+适用于 macOS 的 Peeping Dorm Manager 本地存档编辑脚本，包含中文说明、基础隐私清理与 Fork 发布整理。
 
 ## 重要声明
 
@@ -44,6 +48,8 @@ python main.py
 3. 修改 `decrypted.json` 后，再次运行相同命令即可回写并重新加密。
 
 ### macOS
+
+这是当前仓库重点维护的适配场景。
 
 1. 默认运行：
 
